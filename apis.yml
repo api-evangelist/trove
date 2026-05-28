@@ -1,0 +1,32 @@
+aid: trove
+name: Trove
+description: "Search through the National Library of Australia collection of 1000s of digitised newspapers"
+url: https://trove.nla.gov.au/about/create-something/using-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "News"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - News
+  - Public APIs
+apis:
+  - name: Trove
+    description: "Search through the National Library of Australia collection of 1000s of digitised newspapers"
+    humanURL: https://trove.nla.gov.au/about/create-something/using-api
+    baseURL: https://trove.nla.gov.au/about/create-something/using-api
+    tags:
+      - News
+    properties:
+      - type: Documentation
+        url: https://trove.nla.gov.au/about/create-something/using-api
+common:
+  - type: Website
+    url: https://trove.nla.gov.au/about/create-something/using-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
