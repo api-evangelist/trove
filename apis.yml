@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://trove.nla.gov.au/about/create-something/using-api
 common:
+  - type: DomainSecurity
+    url: security/trove-domain-security.yml
   - type: Website
     url: https://trove.nla.gov.au/about/create-something/using-api
   - type: PublicAPIsListing
