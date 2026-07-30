@@ -1,10 +1,22 @@
 aid: trove
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/trove.png
 name: Trove
 description: "Search through the National Library of Australia collection of 1000s of digitised newspapers"
 url: https://trove.nla.gov.au/about/create-something/using-api
 specificationVersion: '0.20'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-07-25'
 x-source: public-apis/public-apis
 x-category: "News"
 x-tier: 3
