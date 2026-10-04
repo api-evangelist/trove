@@ -39,7 +39,6 @@ apis:
   - name: Trove
     description: "Search through the National Library of Australia collection of 1000s of digitised newspapers"
     humanURL: https://trove.nla.gov.au/about/create-something/using-api
-    baseURL: https://trove.nla.gov.au/about/create-something/using-api
     tags:
       - News
     properties:
